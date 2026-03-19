@@ -5,14 +5,14 @@
 <!-- thanks for:https://github.com/NolanHo/NolanHo -->
 > <p align="left"><em>
 >     <br>
->     我们凝望着最初的凝望，感到另一颗心跨越时空，望见生命的力量之和。
+>     我喜欢晚上，如果没有晚上，我们永远看不到星星
 >     <br>
->     We gaze upon the first gaze,feeling another heart transcend time and space,
+>     I like the night.
 >     <br>
->     seeing the sum of the power of life.
+>     Without the dark, we'd never see the stars.
 > </em></p>
 > <p align="right">
->     &mdash;&mdash;&mdash;《National Treasure》
+>     &mdash;&mdash;&mdash;《Twilight》
 > </p>
 </div>
 <!-- ## About Me
