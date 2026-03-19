@@ -9,19 +9,19 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # 解决 Node.js 20 弃用警告
 
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: LO-HINA
-          # ✅ 生成在 main 分支根目录
-          output: github-contribution-grid-snake.svg
-          color_snake: "#8b5cf6"
-          color_dots: "#161b22"
+          # ✅ 正确参数：outputs（复数），颜色通过 args 传递
+          outputs: github-contribution-grid-snake.svg
+          args: "--color-snake #8b5cf6 --color-dots #161b22"
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update snake animation"
-          # ✅ 匹配根目录的文件
           file_pattern: github-contribution-grid-snake.svg
