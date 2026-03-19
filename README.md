@@ -2,8 +2,7 @@
 
   <!-- 左边图片 -->
   <div style="flex: 1;">
-    <img src="![HDmVVvdbEAAXB3M](https://github.com/user-attachments/assets/b8adbc9f-f7dd-4585-bde4-7b9376be0bac)
-" alt="封面图" style="width: 100%; border-radius: 8px;">
+    <img src="" alt="封面图" style="width: 100%; border-radius: 8px;">
   </div>
 
   <!-- 右边名言 -->
