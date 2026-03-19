@@ -25,5 +25,5 @@ _Though worldly affairs shift like fleeting clouds and life ultimately withers, 
 <sub><em>Nice to meet you! May every day be filled with sunshine and smiles for you.★</em></sub>
 
 </div>
-<img src="https://raw.githubusercontent.com/LO-HINA/LO-HINA/refs/heads/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
+<img src="https://raw.githubusercontent.com/LO-HINA/LO-HINA/main/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
 
