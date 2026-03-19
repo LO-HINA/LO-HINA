@@ -1,27 +1,24 @@
-name: Generate Snake Animation
+name: Generate Snake
 on:
+  workflow_dispatch:  # 允许手动点击运行
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # 每天自动更新
+
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # 解决 Node.js 20 弃用警告
-
-      - name: Generate snake animation
+      - uses: actions/checkout@v4
+      
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: LO-HINA
-          # ✅ 正确参数：outputs（复数），颜色通过 args 传递
+          # 这里只填用户名，其他参数统统去掉
           outputs: github-contribution-grid-snake.svg
-          args: "--color-snake #8b5cf6 --color-dots #161b22"
-
-      - name: Commit and push
+      
+      - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update snake animation"
-          file_pattern: github-contribution-grid-snake.svg
+          commit_message: "Generate Snake"
+          file_pattern: "github-contribution-grid-snake.svg"
