@@ -1,17 +1,31 @@
-<div style="display: flex; flex-direction: row-reverse; align-items: center; gap: 20px; padding: 20px; background: #121212; width: 100%;">
-  <div style="flex: 0 0 auto;">
-    <img src="./image/hina.jpg" alt="展示图片" style="width: 300px; height: auto; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.3);">
-  </div>
-  <div style="flex: 1; position: relative; padding-left: 25px; color: #e0e0e0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.8;">
-    <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: #444; border-radius: 2px;"></div>
-    <div style="font-size: 1.25em; color: #e0e0e0;">
-     似花还似非花，也无人惜从教坠。 <br>
-      <div style="margin-left: auto; text-align: right; margin-top: 1.5em; font-size: 1.1em; color: #999;">
-      ---苏轼<br>
-      心平能愈三千疾，心静可通万事理。 <br>
-      <div style="margin-left: auto; text-align: right; margin-top: 1.5em; font-size: 1.1em; color: #999;">
-      ---杜甫<br>
-      </div>
-    </div>
-  </div>
+﻿<img src="./image/hina.jpg" width = "200px" height = "auto" alt="NapCat" align=right />
+<div align="center">
+
+  
+<!-- thanks for:https://github.com/NolanHo/NolanHo -->
+> <p align="left"><em>
+>     <br>
+>     我们凝望着最初的凝望，感到另一颗心跨越时空，望见生命的力量之和。
+>     <br>
+>     We gaze upon the first gaze,feeling another heart transcend time and space,
+>     <br>
+>     seeing the sum of the power of life.
+> </em></p>
+> <p align="right">
+>     &mdash;&mdash;&mdash;《National Treasure》
+> </p>
 </div>
+<!-- ## About Me
+ -->
+
+_✨  Being keen on steering practical things, now hands-on **FE** and **BE**.  ✨_
+
+_Though worldly affairs shift like fleeting clouds and life ultimately withers, the striving for eternity and brilliance amidst impermanence remains preserved in our cultural memory._
+
+_Contributor and Plugin Developer of **[@AstrBotDevs/AstrBot<img src="https://avatars.githubusercontent.com/u/197911947?s=48&v=4" width="17px" >](https://github.com/AstrBotDevs/AstrBot)**_
+
+<sub><em>Nice to meet you! May every day be filled with sunshine and smiles for you.★</em></sub>
+
+</div>
+<img src="https://raw.githubusercontent.com/Radiant303/Radiant303/refs/heads/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
+
