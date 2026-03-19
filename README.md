@@ -22,7 +22,6 @@ _✨  Being keen on steering practical things, now hands-on **FE** and **BE**.  
 
 _Though worldly affairs shift like fleeting clouds and life ultimately withers, the striving for eternity and brilliance amidst impermanence remains preserved in our cultural memory._
 
-
 <sub><em>Nice to meet you! May every day be filled with sunshine and smiles for you.★</em></sub>
 
 </div>
