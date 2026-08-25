@@ -24,5 +24,9 @@ _Though worldly affairs shift like fleeting clouds and life ultimately withers, 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=200&size=12&duration=4999&pause=100&color=FFFFFF&repeat=false&width=435&lines=Nice+to+meet+you!+May+every+day+be+filled+with+sunshine+and+smiles+for+you.%E2%98%85)](https://git.io/typing-svg)
 </div>
+
+
+![计数](https://count.getloli.com/@LOHINA?name=LOHINA&theme=miku&padding=16&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 <img src="https://raw.githubusercontent.com/LO-HINA/LO-HINA/main/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
 
